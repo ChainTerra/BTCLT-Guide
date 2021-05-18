@@ -1,1 +1,1 @@
-# BTCLT-Guide
+# BitClout Mining Guide

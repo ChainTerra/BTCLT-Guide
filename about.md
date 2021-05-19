@@ -27,8 +27,9 @@ page_nav:
         content: Next page
         url: 'https://chainterra.github.io/BTCLT-Guide/prereqs/'
 ---
+CloutPool works on a series of innovative technologies centered around mining for and supporting the BitClout ecosystem. They are a third party project not directly tied to or affiliated with the development team behind BitClout. 
 
-The Open Franchise Project was built on the idea of open-sourced disruptive enterprises practically inspired by the current franchise business model. However, there are alot of issues it tackles. 
+This guide is being created to provide to you insights regarding the mining process, software setup, and different configurations so that you are able to get started much quicker. Currently this guide is experimental, but shall be updated as time progresses.
 
 **Issues such as**
 1. Fee restrictions

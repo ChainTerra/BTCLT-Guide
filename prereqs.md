@@ -28,8 +28,8 @@ page_nav:
         url: 'https://chainterra.github.io/BTCLT-Guide/cloutpool/'
 ---
 
-The business model is quite simple. It is oriented under the idea of an open system for franchises. *What does that mean?*  Well, it means following a certain set of standards or a pipeline will allow for an open system to be possible.
-##### Such system is as follows:
+There are a series of prerequisites and software/hardware recommendations needed to get started. These help insure that if any problems arise, you will likely have most of the dependencies needed to fix them quickly.
+##### The prerequisites are as follows:
 1. No upfront cost.
 2. Business components are sourced openly, but with a certain set of conditions.
 

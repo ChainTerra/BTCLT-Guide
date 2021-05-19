@@ -5,7 +5,7 @@ keywords:
 
 # Hero section
 title: CloutPool
-description: An open franchise project, which aims to provide an open system alternative for the traditional franchise model.
+description: CloutPool aims to create a variety of different software to mine BitClout. BitClout is an experimental cryptocurrency built on the concept of making a marketplace of creators.
 buttons:
     - content: About
       url: 'https://chainterra.github.io/BTCLT-Guide/about/'
@@ -25,23 +25,23 @@ author:
 # Grid navigation
 grid_navigation:
     - title: About
-      excerpt: Information about the Open Franchise Project, and the proposals regarding structures, purpose and reasoning.
+      excerpt: Information about the CloutPool project, BitClout, and mining in general.
       cta: Read more
       url: 'https://chainterra.github.io/BTCLT-Guide/about/'    
     - title: Pre-reqs
-      excerpt: Information in regards to the Open Franchise business model and its implementation across different sectors.
+      excerpt: Information about different software pre-requisites needed to get started.
       cta: Read more
       url: 'https://chainterra.github.io/BTCLT-Guide/prereqs/'
     - title: CloutPool
-      excerpt: Why was OpenFranchise created? What is its proposed purpose and advantage of the traditional franchise model?
+      excerpt: What is the CloutPool project and general information regarding CloutPool.
       cta: Read more
       url: 'https://chainterra.github.io/BTCLT-Guide/cloutpool/'
     - title: Mining Setup
-      excerpt: In regards to the Open Franchise business structure, model implementation, and different strategies
+      excerpt: Learning about how to set up mining and how to connect to what is needed. 
       cta: Read more
       url: 'https://chainterra.github.io/BTCLT-Guide/mining-setup/'
     - title: Further Information
-      excerpt: Further information regarding OpenFranchise, miscellaneous information, comments, logs and/or updates 
+      excerpt: Further information regarding CloutPool, mining, and any related info.
       cta: Read more
       url: 'https://chainterra.github.io/BTCLT-Guide/information/'   
 ---

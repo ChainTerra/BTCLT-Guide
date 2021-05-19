@@ -9,13 +9,13 @@ doks:
         nav:
             - item_name: About
               item_url: 'https://chainterra.github.io/BTCLT-Guide/about/'
-            - item_name: Model
-              item_url: 'https://chainterra.github.io/BTCLT-Guide/model/'
-            - item_name: Purpose
-              item_url: 'https://chainterra.github.io/BTCLT-Guide/purpose/'
-            - item_name: Structure
-              item_url: 'https://chainterra.github.io/BTCLT-Guide/structure/'
-            - item_name: Information
+            - item_name: Pre-reqs
+              item_url: 'https://chainterra.github.io/BTCLT-Guide/prereqs/'
+            - item_name: CloutPool
+              item_url: 'https://chainterra.github.io/BTCLT-Guide/cloutpool/'
+            - item_name: Mining Setup
+              item_url: 'https://chainterra.github.io/BTCLT-Guide/mining-setup/'
+            - item_name: Further Information
               item_url: 'https://chainterra.github.io/BTCLT-Guide/information/'     
     footer:
         content:

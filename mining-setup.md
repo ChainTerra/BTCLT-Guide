@@ -6,7 +6,7 @@ comments: false
 
 # Hero section
 title: Mining Setup
-description: In regards to the Open Franchise business structure, model implementation, and different strategies
+description: Learning about how to set up mining and how to connect to what is needed.
 
 # Author box
 author:

@@ -5,7 +5,7 @@ keywords:
 comments: false
 
 # Hero section
-title: Information
+title: Further Information
 description: Further information regarding OpenFranchise, miscellaneous information, comments, logs and/or updates
 
 # Author box
@@ -22,7 +22,7 @@ micro_nav: true
 page_nav:
     prev:
         content: Previous page
-        url: 'https://open-franchise.github.io/structure/'
+        url: 'https://open-franchise.github.io/mining-setup/'
     next:
         content: Next page
         url: 'https://open-franchise.github.io/'

@@ -6,7 +6,7 @@ comments: false
 
 # Hero section
 title: About
-description: Information about the Open Franchise Project, and the proposals regarding structures, purpose and reasoning.
+description: Information about the CloutPool project, BitClout, and mining in general.
 
 # Author box
 author:

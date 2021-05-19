@@ -22,10 +22,10 @@ micro_nav: true
 page_nav:
     prev:
         content: Previous page
-        url: 'https://open-franchise.github.io/about/'
+        url: 'https://chainterra.github.io/BTCLT-Guide/about/'
     next:
         content: Next page
-        url: 'https://open-franchise.github.io/purpose/'
+        url: 'https://chainterra.github.io/BTCLT-Guide/purpose/'
 ---
 
 The business model is quite simple. It is oriented under the idea of an open system for franchises. *What does that mean?*  Well, it means following a certain set of standards or a pipeline will allow for an open system to be possible.

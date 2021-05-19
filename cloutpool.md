@@ -6,7 +6,7 @@ comments: false
 
 # Hero section
 title: CloutPool
-description: Why was OpenFranchise created? What is its proposed purpose and advantage of the traditional franchise model?
+description: What is the CloutPool project and general information regarding CloutPool.
 
 # Author box
 author:

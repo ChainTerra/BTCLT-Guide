@@ -28,4 +28,4 @@ page_nav:
         url: 'https://chainterra.github.io/BTCLT-Guide/mining-setup/'
 ---
 
-The reason this was created is a direct result of the centralization of the traditional franchisor business model. We wanted to experiment a bit and slowly see how this  will change the status quo. This also has somewhat of a growth advantage in regards to brand equity value, and less barriers of entry for those who want to start a franchise location. The franchisee just needs to pay for everything outside of branding usage such as location, staff, etc.
+Before we get started, we want to make a reiteration on some of the software we are able to run. CloutPool works on

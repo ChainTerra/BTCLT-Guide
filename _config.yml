@@ -4,7 +4,7 @@ doks:
     color_theme: # Available themes: blue (default), green, purple, red and yellow
     header:
         logo:
-            text: OpenFranchise
+            text: CloutPool
             image:
         nav:
             - item_name: About
@@ -20,18 +20,18 @@ doks:
     footer:
         content:
             logo:
-                text: OpenFranchise
+                text: CloutPool
                 image:
-            copyright: Copyright &copy; 2017. - Andrew Magdy Kamal, Stark Drones Corporation <br>All rights reserved.
+            copyright: Copyright &copy; 2021. - Andrew Magdy Kamal, ChainTerra <br>All rights reserved.
         social_list:
             - network_name: facebook
-              profile_url: 'https://www.facebook.com/hashtag/openfranchise'
+              profile_url: 'https://www.facebook.com/hashtag/CloutPool'
             - network_name: twitter
-              profile_url: 'https://twitter.com/hashtag/openfranchise?src=hashtag_click'
+              profile_url: 'https://twitter.com/hashtag/CloutPool?src=hashtag_click'
             - network_name: instagram
-              profile_url: 'https://www.instagram.com/explore/tags/openfranchise'
+              profile_url: 'https://www.instagram.com/explore/tags/CloutPool'
             - network_name: youtube
-              profile_url: 'https://www.youtube.com/results?search_query=openfranchise'
+              profile_url: 'https://www.youtube.com/results?search_query=CloutPool'
     google_analytics:
         tracking_code: # Add your Google Analytics tracking code to activate Google Analytics
     comments:

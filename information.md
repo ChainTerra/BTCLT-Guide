@@ -22,10 +22,10 @@ micro_nav: true
 page_nav:
     prev:
         content: Previous page
-        url: 'https://open-franchise.github.io/mining-setup/'
+        url: 'https://chainterra.github.io/BTCLT-Guide/mining-setup/'
     next:
         content: Next page
-        url: 'https://open-franchise.github.io/'
+        url: 'https://chainterra.github.io/BTCLT-Guide'
 ---
 
 Further information will be implemented here.  Currently, this is in beta.

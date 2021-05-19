@@ -6,7 +6,7 @@ comments: false
 
 # Hero section
 title: Pre-reqs
-description: Information in regards to the Open Franchise business model and its implementation across different sectors.
+description: Information about different software pre-requisites needed to get started.
 
 # Author box
 author:

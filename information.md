@@ -6,7 +6,7 @@ comments: false
 
 # Hero section
 title: Further Information
-description: Further information regarding OpenFranchise, miscellaneous information, comments, logs and/or updates
+description: Further information regarding CloutPool, mining, and any related info.
 
 # Author box
 author:

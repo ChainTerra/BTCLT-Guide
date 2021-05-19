@@ -1,0 +1,49 @@
+# Theme settings
+doks:
+    baseurl:
+    color_theme: # Available themes: blue (default), green, purple, red and yellow
+    header:
+        logo:
+            text: OpenFranchise
+            image:
+        nav:
+            - item_name: About
+              item_url: 'https://open-franchise.github.io/about/'
+            - item_name: Model
+              item_url: 'https://open-franchise.github.io/model/'
+            - item_name: Purpose
+              item_url: 'https://open-franchise.github.io/purpose/'
+            - item_name: Structure
+              item_url: 'https://open-franchise.github.io/structure/'
+            - item_name: Information
+              item_url: 'https://open-franchise.github.io/information/'     
+    footer:
+        content:
+            logo:
+                text: OpenFranchise
+                image:
+            copyright: Copyright &copy; 2017. - Andrew Magdy Kamal, Stark Drones Corporation <br>All rights reserved.
+        social_list:
+            - network_name: facebook
+              profile_url: 'https://www.facebook.com/hashtag/openfranchise'
+            - network_name: twitter
+              profile_url: 'https://twitter.com/hashtag/openfranchise?src=hashtag_click'
+            - network_name: instagram
+              profile_url: 'https://www.instagram.com/explore/tags/openfranchise'
+            - network_name: youtube
+              profile_url: 'https://www.youtube.com/results?search_query=openfranchise'
+    google_analytics:
+        tracking_code: # Add your Google Analytics tracking code to activate Google Analytics
+    comments:
+        disqus_forum_shortname: # Add your disqus forum shortname to activate comments
+
+# SASS settings
+sass:
+    sass_dir: ./doks-theme/_sass
+    style: :compressed
+
+# Jekyll settings
+layouts_dir: ./doks-theme/_layouts
+includes_dir: ./doks-theme/_includes
+exclude: [ 'README.md', 'CHANGELOG.md' ]
+permalink: /:title/

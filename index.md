@@ -4,15 +4,15 @@ layout: homepage
 keywords:
 
 # Hero section
-title: OpenFranchise
+title: CloutPool
 description: An open franchise project, which aims to provide an open system alternative for the traditional franchise model.
 buttons:
     - content: About
-      url: 'https://open-franchise.github.io/about/'
+      url: 'https://chainterra.github.io/BTCLT-Guide/about/'
       external_url: false
     - icon: github
       content: GitHub
-      url: 'https://github.com/Open-Franchise'
+      url: 'https://chainterra.github.io/BTCLT-Guide/'
       external_url: true
 
 # Author box
@@ -27,21 +27,21 @@ grid_navigation:
     - title: About
       excerpt: Information about the Open Franchise Project, and the proposals regarding structures, purpose and reasoning.
       cta: Read more
-      url: 'https://open-franchise.github.io/about/'    
-    - title: Model
+      url: 'https://chainterra.github.io/BTCLT-Guide/about/'    
+    - title: Pre-reqs
       excerpt: Information in regards to the Open Franchise business model and its implementation across different sectors.
       cta: Read more
-      url: 'https://open-franchise.github.io/model/'
-    - title: Purpose
+      url: 'https://chainterra.github.io/BTCLT-Guide/prereqs/'
+    - title: CloutPool
       excerpt: Why was OpenFranchise created? What is its proposed purpose and advantage of the traditional franchise model?
       cta: Read more
-      url: 'https://open-franchise.github.io/purpose'
-    - title: Structure
+      url: 'https://chainterra.github.io/BTCLT-Guide/cloutpool/'
+    - title: Mining Setup
       excerpt: In regards to the Open Franchise business structure, model implementation, and different strategies
       cta: Read more
-      url: 'https://open-franchise.github.io/structure/'
-    - title: Information
+      url: 'https://chainterra.github.io/BTCLT-Guide/mining-setup/'
+    - title: Further Information
       excerpt: Further information regarding OpenFranchise, miscellaneous information, comments, logs and/or updates 
       cta: Read more
-      url: 'https://open-franchise.github.io/information/'   
+      url: 'https://chainterra.github.io/BTCLT-Guide/information/'   
 ---

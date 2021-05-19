@@ -25,7 +25,7 @@ page_nav:
         url: 'https://chainterra.github.io/BTCLT-Guide'
     next:
         content: Next page
-        url: 'https://chainterra.github.io/BTCLT-Guide/model/'
+        url: 'https://chainterra.github.io/BTCLT-Guide/prereqs/'
 ---
 
 The Open Franchise Project was built on the idea of open-sourced disruptive enterprises practically inspired by the current franchise business model. However, there are alot of issues it tackles. 

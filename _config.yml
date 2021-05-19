@@ -22,7 +22,7 @@ doks:
             logo:
                 text: CloutPool
                 image:
-            copyright: Copyright &copy; 2021. - Andrew Magdy Kamal, ChainTerra <br>All rights reserved.
+            copyright: Copyright &copy; 2021. ChainTerra <br>All rights reserved.
         social_list:
             - network_name: facebook
               profile_url: 'https://www.facebook.com/hashtag/CloutPool'

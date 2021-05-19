@@ -8,15 +8,15 @@ doks:
             image:
         nav:
             - item_name: About
-              item_url: 'https://open-franchise.github.io/about/'
+              item_url: 'https://chainterra.github.io/BTCLT-Guide/about/'
             - item_name: Model
-              item_url: 'https://open-franchise.github.io/model/'
+              item_url: 'https://chainterra.github.io/BTCLT-Guide/model/'
             - item_name: Purpose
-              item_url: 'https://open-franchise.github.io/purpose/'
+              item_url: 'https://chainterra.github.io/BTCLT-Guide/purpose/'
             - item_name: Structure
-              item_url: 'https://open-franchise.github.io/structure/'
+              item_url: 'https://chainterra.github.io/BTCLT-Guide/structure/'
             - item_name: Information
-              item_url: 'https://open-franchise.github.io/information/'     
+              item_url: 'https://chainterra.github.io/BTCLT-Guide/information/'     
     footer:
         content:
             logo:

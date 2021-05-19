@@ -5,7 +5,7 @@ keywords:
 comments: false
 
 # Hero section
-title: Structure
+title: Mining Setup
 description: In regards to the Open Franchise business structure, model implementation, and different strategies
 
 # Author box
@@ -22,7 +22,7 @@ micro_nav: true
 page_nav:
     prev:
         content: Previous page
-        url: 'https://open-franchise.github.io/purpose/'
+        url: 'https://open-franchise.github.io/cloutpool/'
     next:
         content: Next page
         url: 'https://open-franchise.github.io/information/'

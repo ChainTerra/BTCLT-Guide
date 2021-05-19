@@ -5,7 +5,7 @@ keywords:
 comments: false
 
 # Hero section
-title: Model
+title: Pre-reqs
 description: Information in regards to the Open Franchise business model and its implementation across different sectors.
 
 # Author box

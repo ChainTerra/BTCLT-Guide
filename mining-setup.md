@@ -22,10 +22,10 @@ micro_nav: true
 page_nav:
     prev:
         content: Previous page
-        url: 'https://open-franchise.github.io/cloutpool/'
+        url: 'https://chainterra.github.io/BTCLT-Guide/cloutpool/'
     next:
         content: Next page
-        url: 'https://open-franchise.github.io/information/'
+        url: 'https://chainterra.github.io/BTCLT-Guide/information/'
 ---
 
 Right now this is in beta, and several proposals in regards to different structures and implementations are on there way.

@@ -41,6 +41,7 @@ Right now this is experimental, but here is the guide as it currently stands *(a
 `sudo nano run_remote_miner.sh` \
 Edit `miner_public_key` value to your public key \
 Run `go build` in the `core` directory \
+Then also run: `docker build -t ubuntu-test:latest .` \
 Theoretically, you are supposed to be able to run `./run_remote_miner.sh` to start mining. \
 However, the [cmd](https://github.com/bitclout/core/cmd/) module needs to be live. Once it is, the above instructions likely should work.
 

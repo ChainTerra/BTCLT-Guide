@@ -22,10 +22,11 @@ micro_nav: true
 page_nav:
     prev:
         content: Previous page
-        url: 'https://chainterra.github.io/BTCLT-Guide/about/'
+        url: 'about/'
     next:
         content: Next page
-        url: 'https://chainterra.github.io/BTCLT-Guide/cloutpool/'
+        url: 'cloutpool/'
+        
 ---
 
 There are a series of prerequisites and software/hardware recommendations needed to get started. These help insure that if any problems arise, you will likely have most of the dependencies needed to fix them quickly.

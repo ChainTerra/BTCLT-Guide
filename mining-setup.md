@@ -35,7 +35,7 @@ Right now this is experimental, but here is the guide as it currently stands *(a
 `git clone https://github.com/bitclout/core` \
 `git clone https://github.com/bitclout/backend` \
 `cd backend` \
-`docker build -t ubuntu-test:latest` \
+`docker build -t ubuntu-test:latest .` \
 `cd ../` \
 `cd core` \
 `sudo nano run_remote_miner.sh` \

@@ -1,6 +1,6 @@
 # Theme settings
 doks:
-    baseurl:
+    baseurl: https://chainterra.github.io/BTCLT-Guide/
     color_theme: yellow # Available themes: blue (default), green, purple, red and yellow
     header:
         logo:
@@ -8,15 +8,15 @@ doks:
             image:
         nav:
             - item_name: About
-              item_url: 'https://chainterra.github.io/BTCLT-Guide/about/'
+              item_url: 'about'
             - item_name: Pre-reqs
-              item_url: 'https://chainterra.github.io/BTCLT-Guide/prereqs/'
+              item_url: 'prereqs'
             - item_name: CloutPool
-              item_url: 'https://chainterra.github.io/BTCLT-Guide/cloutpool/'
+              item_url: 'cloutpool'
             - item_name: Mining Setup
-              item_url: 'https://chainterra.github.io/BTCLT-Guide/mining-setup/'
+              item_url: 'mining-setup'
             - item_name: Further Information
-              item_url: 'https://chainterra.github.io/BTCLT-Guide/information/'     
+              item_url: 'information'     
     footer:
         content:
             logo:

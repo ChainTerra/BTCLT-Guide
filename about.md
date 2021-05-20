@@ -31,11 +31,11 @@ CloutPool works on a series of innovative technologies centered around mining fo
 
 This guide is being created to provide to you insights regarding the mining process, software setup, and different configurations so that you are able to get started much quicker. Currently this guide is experimental, but shall be updated as time progresses.
 
-**Issues such as**
-1. Fee restrictions
-2. Degree of openess
-3. Faster scalability
-4. Integrations of technology
-4. Modern monetary gain policies
+**Insights such as**
+1. Software needed
+2. Mining node configs
+3. The mining pool configs
+4. Setting up a mining pool
+4. Potential software configs
 
-Outside of this, franchises are extremely centralized. A new framework or proposal can be set in place that allows for higher mutual benefit for both parties involved. This proposal will look into *technological and methodological designs* regarding each issue. The reasoning behind open franchises go beyond these main issues, but also tackles the root problem of centralization. How can one have a more open business model, but still have higher perceived benefit over closed business models?
+What is meant by the above, is that this guide is supposed to work (at the very least), as a intro for those looking to get started with mining or running a pool. This will not just introduce others to BitClout mining in general, but how to run a high performance mining pool for the BitClout ecosystem. As of now, this guide is experimental.

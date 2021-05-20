@@ -8,15 +8,15 @@ doks:
             image:
         nav:
             - item_name: About
-              item_url: 'about'
+              item_url: ''
             - item_name: Pre-reqs
-              item_url: 'prereqs'
+              item_url: ''
             - item_name: CloutPool
-              item_url: 'cloutpool'
+              item_url: ''
             - item_name: Mining Setup
-              item_url: 'mining-setup'
+              item_url: ''
             - item_name: Further Information
-              item_url: 'information'     
+              item_url: ''     
     footer:
         content:
             logo:

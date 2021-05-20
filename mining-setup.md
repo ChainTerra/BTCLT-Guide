@@ -22,10 +22,11 @@ micro_nav: true
 page_nav:
     prev:
         content: Previous page
-        url: 'https://chainterra.github.io/BTCLT-Guide/cloutpool/'
+        url: 'cloutpool/'
     next:
         content: Next page
-        url: 'https://chainterra.github.io/BTCLT-Guide/information/'
+        url: 'information/'
+        
 ---
 
 Right now this is experimental, but here is the guide as it currently stands *(as of time last updated)*:

@@ -38,4 +38,4 @@ This guide is being created to provide to you insights regarding the mining proc
 4. Entry level details on setting up a mining pool
 5. Potential software configurations and integrations
 
-What is meant by the above, is that this guide is supposed to work (at the very least), as an intro for those looking to get started with mining or running a pool. This will not just introduce others to BitClout mining in general, but how to run a high performance mining pool for the BitClout ecosystem. As of now, this guide is experimental.
+What is meant by the above, is that this guide is supposed to work (at the very least), as an intro for those looking to get started with mining or running a pool. This will not just introduce others to BitClout mining in general, but also on how to run a high performance mining pool for the BitClout ecosystem. As of now, this guide is experimental.

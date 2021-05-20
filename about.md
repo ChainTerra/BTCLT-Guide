@@ -22,10 +22,10 @@ micro_nav: true
 page_nav:
     prev:
         content: Previous page
-        url: 'https://chainterra.github.io/BTCLT-Guide'
+        url: ''
     next:
         content: Next page
-        url: 'https://chainterra.github.io/BTCLT-Guide/prereqs/'
+        url: 'prereqs/'
 ---
 CloutPool works on a series of innovative technologies centered around mining for and supporting the BitClout ecosystem. They are a third party project not directly tied to or affiliated with the development team behind BitClout. 
 

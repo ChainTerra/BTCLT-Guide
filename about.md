@@ -33,7 +33,7 @@ This guide is being created to provide to you insights regarding the mining proc
 
 **Insights such as**
 1. Software needed
-2. Settuping a mining node
+2. Setting up a mining node
 3. The configurations to a mining pool
 4. Entry level details on setting up a mining pool
 5. Potential software configurations and integrations

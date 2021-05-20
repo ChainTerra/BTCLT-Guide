@@ -28,4 +28,4 @@ page_nav:
         url: 'https://chainterra.github.io/BTCLT-Guide'
 ---
 
-Further information will be implemented here.  Currently, this is in beta. Project logs and updates should be posted or live soon. Regarding main announcements, please refer to the [CloutPool](https://bitclout.com/u/CloutPool] profile on BitClout. Any action you do is at your own risk.
+Further information will be implemented here.  Currently, this is in beta. Project logs and updates should be posted or live soon. Regarding main announcements, please refer to the [CloutPool](https://bitclout.com/u/CloutPool) profile on BitClout. Any action you do is at your own risk.

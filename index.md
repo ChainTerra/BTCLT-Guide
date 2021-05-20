@@ -8,7 +8,7 @@ title: CloutPool
 description: CloutPool aims to create a variety of different software to mine BitClout. BitClout is an experimental cryptocurrency built on the concept of making a marketplace of creators.
 buttons:
     - content: About
-      url: 'https://chainterra.github.io/BTCLT-Guide/about/'
+      url: 'about/'
       external_url: false
     - icon: github
       content: GitHub
@@ -27,21 +27,22 @@ grid_navigation:
     - title: About
       excerpt: Information about the CloutPool project, BitClout, and mining in general.
       cta: Read more
-      url: 'https://chainterra.github.io/BTCLT-Guide/about/'    
+      url: 'about/'    
     - title: Pre-reqs
       excerpt: Information about different software pre-requisites needed to get started.
       cta: Read more
-      url: 'https://chainterra.github.io/BTCLT-Guide/prereqs/'
+      url: 'prereqs/'
     - title: CloutPool
       excerpt: What is the CloutPool project and general information regarding CloutPool.
       cta: Read more
-      url: 'https://chainterra.github.io/BTCLT-Guide/cloutpool/'
+      url: 'cloutpool/'
     - title: Mining Setup
       excerpt: Learning about how to set up mining and how to connect to what is needed. 
       cta: Read more
-      url: 'https://chainterra.github.io/BTCLT-Guide/mining-setup/'
+      url: 'mining-setup/'
     - title: Further Information
       excerpt: Further information regarding CloutPool, mining, and any related info.
       cta: Read more
-      url: 'https://chainterra.github.io/BTCLT-Guide/information/'   
+      url: 'information/'   
+      
 ---

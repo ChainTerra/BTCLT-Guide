@@ -28,4 +28,4 @@ page_nav:
         url: 'https://chainterra.github.io/BTCLT-Guide/mining-setup/'
 ---
 
-Before we get started, we want to make a reiteration on some of the software we are able to run. CloutPool works on
+Before we get started, we want to make a reiteration on some of the software we are able to run. CloutPool works on custom software solutions for mining within the BitClout ecosystem. They aim to do that and much more in the future. The mining setup we are going to be iterating is both running the regular core node or setting up an entirely custom pool on your own. These will be the beginning steps.

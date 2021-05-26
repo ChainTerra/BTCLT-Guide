@@ -53,3 +53,21 @@ Copy `go-stratum-pool` and rename `config.btclt.json` to `config.json` \
 Change the `rewardRecipients` address in line 18 of the config to your address. \
 Run `./go-stratup-pool` and it should detect the `config.json` file and node automatically. \
 You can host this in a VPS and share mining rewards w/ your "workers".
+
+**For running w/ Node.js** \
+`git clone https://github.com/zone117x/node-stratum-pool.git` \
+`git clone https://github.com/ChainTerra/NSP_Configs.git` \
+Make sure to run the [bitclout/core](https://github.com/bitclout/core) daemon (Dockerfile and node) first locally. \
+Move to `NSP_Configs` files to `node-stratum-pool` \
+Replace the addresses in the `pool.js` file. \
+Add the configs as modules + `pool.start();` \
+Run `npm run`
+
+**For Cuda:** See software [here](https://github.com/ChainTerra/CP_Cuda) \
+**Windows**: `sgminer-x64 -k keccak -o stratum+tcp://localhost:3032 -u BITCLOUTADDRESS.WorkerName -p x` \
+`ccminer -a keccak -o stratum+tcp://localhost:3032 -u BITCLOUTADDRESS.WorkerName -p x` \
+**Unix**: `./sgminer -k keccak -o stratum+tcp://localhost:3032 -u BITCLOUTADDRESS.WorkerName -p x` \
+`-dpool stratum+tcp://localhost:3032 -dwal BITCLOUTADDRESS.WorkerName -dpsw x -dcoin keccak -allpools 1` \
+**Regarding Claymore:** `-dpool stratum+tcp://localhost:3032 -dwal BITCLOUTADDRESS.WorkerName -dpsw x -dcoin keccak -allpools 1` \
+Obivously replace `BITCLOUTADDRESS` w/ your address \
+**In regards to Hive OS:** See farm instructions [here](https://github.com/ChainTerra/CP_WR_Confs)

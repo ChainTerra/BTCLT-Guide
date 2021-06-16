@@ -50,7 +50,7 @@ However, the [cmd](https://github.com/bitclout/core/cmd/) module needs to be liv
 `git clone https://github.com/ChainTerra/CloutPool.git` \
 Make sure to run the [bitclout/core](https://github.com/bitclout/core) daemon (Dockerfile and node) first locally. \
 Run `go build .` \
-Copy `go-stratum-pool` and rename `config.btclt.json` to `config.json` \
+Copy `go-stratum-pool` and rename `config.clout.json` to `config.json` \
 Change the `rewardRecipients` address in line 18 of the config to your address. \
 Run `./go-stratup-pool` and it should detect the `config.json` file and node automatically. \
 You can host this in a VPS and share mining rewards w/ your "workers".
